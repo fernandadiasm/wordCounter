@@ -21,7 +21,7 @@
 Projeto de um contador de palavras e caracteres
 </p>
 
-[🔗 É possível acessar o projeto clicando aqui 🔤](https://robotron2000-peach.vercel.app/)
+[🔗 É possível acessar o projeto clicando aqui 🔤](https://fernandadiasm.github.io/wordCounter/)
 
 ## 🚀 Tecnologias
 
